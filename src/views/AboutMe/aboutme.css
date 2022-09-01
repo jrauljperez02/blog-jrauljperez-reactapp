@@ -1,0 +1,155 @@
+section{
+    padding: 0 200px;
+}
+.about{
+  margin-bottom: 70px;
+}
+.about-icon{
+  font-size: 2em;
+  transition: transform 0.5s ease;
+  color: #2a4291;
+  padding-top: 20px;
+}
+.about-icon .el{
+  padding-right: 20px;
+}
+
+.title{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.section-title{
+    position: relative;
+    color: #33c7b3;
+    font-size: 2.2em;
+    margin-bottom: 40px;
+}
+
+.section-title:before{
+    content: '';
+    position: absolute;
+    top: 56px;
+    left: 50%;
+    width: 140px;
+    height: 4px;
+    background: #33c7b3;
+    transform: translateX(-50%);
+}
+
+.section-title:after{
+    content: '';
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #33c7b3 ;
+    transform: translateX(-50%);
+}
+.about .content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.about .content .col-left{
+    max-width: 45%;
+}
+.about .content .col-left .img-card{
+  max-width: 100%;
+  margin: auto;
+}
+
+.about .content .col-left .img-card img{
+   top: 0;
+   left: 0;
+   width: 80%;
+   height: 80%;
+   object-fit: cover;
+   border-radius: 100%;
+  }
+.about .content .col-right{
+    position: relative;
+    width: 50%;
+}
+.about .content .col-right .content-title{
+    font-size: 2em;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.about .content .col-right .paragraph-text{
+    font-size: 1em;
+    line-height: 24px;
+    margin-top: 30px;
+    
+}
+
+.animated-text{
+    position: relative;
+    height: 70px;
+    overflow: hidden;
+  }
+  
+  .animated-text h3{
+    color: #2a4291;
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 1px;
+  }
+  
+  .animated-text h3:nth-child(1){
+    animation: text-move 10s infinite;
+  }
+  
+  @keyframes text-move{
+    0%{
+      margin-top: 0;
+    }
+    25%{
+      margin-top: -70px;
+    }
+    50%{
+      margin-top: -140px;
+    }
+    75%{
+      margin-top: -70px;
+    }
+    100%{
+      margin-top: 0;
+    }
+  }
+
+@media(max-width:1040px){
+    section{
+        padding: 8px 20px;
+        padding-bottom: 30px;
+    }
+    .section-title{
+        font-size: 1.8em;
+      }
+      .about .content {
+        flex-direction: column;
+      }
+    .about .content .column{
+        position: relative;
+        width: 100%;
+    }
+    .about .content .col-right{
+       margin:  0 auto;
+       width: 100%;
+      }
+      .about .content .col-left{
+        margin:  0 auto;
+       }
+    .col-right .reveal{
+        padding-top: 0;
+        margin-top: 0;
+    }
+}

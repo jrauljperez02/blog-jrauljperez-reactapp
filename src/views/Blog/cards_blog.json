@@ -1,0 +1,117 @@
+{
+    "title": "Blog",
+    "posts" : [
+        {
+            "id" : 0,
+            "title" : "Firsts steps using git",
+            "description" : "Start learning about Git",
+            "img-url" : "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/12/gitHub.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 1,
+            "title" : "Why you should start using Docker",
+            "description" : "First steps using Docker",
+            "img-url" : "https://www.howtogeek.com/wp-content/uploads/csit/2021/01/6dc7b5a0.jpeg?height=200p&trim=2,2,2,2",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 2,
+            "title" : "List comprehesion using Python",
+            "description" : "List of tricks using lists",
+            "img-url" : "https://files.realpython.com/media/List-Comprehensions-in-Python_Watermarked.39cf85bdd5d0.jpg",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 3,
+            "title" : "Ubuntu Server. Your Firts views",
+            "description" : "Start using Ubuntu now!",
+            "img-url" : "https://i.ytimg.com/vi/BVDaaCRuBao/maxresdefault.jpg",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 4,
+            "title" : "What is the state using ReactJS",
+            "description" : "State ReactJS",
+            "img-url" : "https://w3path.com/wp-content/uploads/2019/08/blue-facebook-background-2-4.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 5,
+            "title" : "Routing using React router dom",
+            "description" : "React router dom",
+            "img-url" : "https://miro.medium.com/max/1400/0*ngqSFJgQ1fkpW_1Y",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 6,
+            "title" : "How to deploy your own Django Server",
+            "description" : "Django Server",
+            "img-url" : "https://files.realpython.com/media/Get-Started-With-Django_Watermarked.15a1e05597bc.jpg",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 7,
+            "title" : "What is an API. Learn everything about it",
+            "description" : "API - HTTP Methods",
+            "img-url" : "https://kozub.com.ar/wp-content/uploads/2021/01/What-is-an-API.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 8,
+            "title" : "How to consume an API using ReactJS fetch",
+            "description" : "Understand what is a async function and fetch data",
+            "img-url" : "https://res.cloudinary.com/practicaldev/image/fetch/s--z5CuRuxD--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/020j2J0d440v/Image%25202018-05-20%2520at%25209.54.54%2520PM.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 9,
+            "title" : "AXIOS - How to implent it in a React Project",
+            "description" : "What is axios and its HTTP Methods",
+            "img-url" : "https://weeklyhow.com/wp-content/uploads/2020/09/Axios-Tutorial-How-To-Use-Axios-To-Make-HTTP-Requests-1-edited.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 10,
+            "title" : "What is Machine Learning",
+            "description" : "Maching learning and Python",
+            "img-url" : "https://miro.medium.com/max/1400/1*RIrPOCyMFwFC-XULbja3rw.png",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 11,
+            "title" : "useEffect Hook. What is it?",
+            "description" : "ReactJS Hook",
+            "img-url" : "https://blog.alexdevero.com/wp-content/uploads/2021/05/03-05-21-react-useeffect-hook-made-simple-blog.jpg",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 12,
+            "title" : "Data Structure  - LeetCode Problems",
+            "description" : "Arrays",
+            "img-url" : "https://miro.medium.com/max/1400/1*b5H5hpt1ajVH6jU0kj7Hsg.jpeg",
+            "alt" : "",
+            "link": ""
+        },
+        {
+            "id" : 13,
+            "title" : "ORIENTED OBJECT PROGRAMMING",
+            "description": "OOP in JAVASCRIPT",
+            "img-url" : "https://jslib.dev/wp-content/uploads/2022/05/1_XlnVJQ392USdQuQcdyvJ4w.png",
+            "alt" : "",
+            "link": ""
+        }
+    ]
+}

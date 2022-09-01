@@ -1,0 +1,45 @@
+
+{
+    "title": "Technologies",
+    "images" : [
+        {   "id": 0,
+            "alt": "python",
+            "url" : "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f5643096750899.5eb54f3381b8f.png"
+        },
+        {
+            "id": 1,
+            "alt": "django rest framework",
+            "url" : "https://miro.medium.com/max/700/1*kR89JbQQK9aAkNVyxE63pg.png"
+        },
+        {   
+            "id": 2,
+            "alt": "javascript",
+            "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+        },
+        {   
+            "id": 3,
+            "alt": "react",
+            "url" : "https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png"
+        },
+        {   
+            "id": 4,
+            "alt": "docker",
+            "url" : "https://www.itsfoss.net/wp-content/uploads/2022/05/Docker-Desktop-is-now-available-for-Linux-with-buts.png"
+        },
+        {
+            "id": 5,
+            "alt": "git",
+            "url" : "https://vabadus.es/images/cache/imagen_nodo/images/articulos/5c9def01e2051965071409.png"
+        },
+        {   
+            "id": 6,
+            "alt": "mysql",
+            "url" : "https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"
+        },
+        {
+            "id" : 7,
+            "alt" : "django" ,
+            "url": "https://images.ctfassets.net/23aumh6u8s0i/6ubUHRD1qfolOVHxiBfjZ7/4e704f48dc5b0104d0c380fec1fe9b9e/django"
+        }
+    ]
+}

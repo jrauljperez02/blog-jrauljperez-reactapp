@@ -1,0 +1,41 @@
+{
+    "title": "Skills",
+    "subtitle" : "My skills and experience",
+    "content" : "My name is Jesus Raul jimenez Perez, I was born on February 7th 2002 and I am a systems engineering automotive student in Instituto Politecnico Nacional, at ESIME Zacatenco with a high emphasis in software learning and development.",
+    "technologies": [
+        {
+            "name": "HTML/CSS/JavaScript",
+            "level" :"95%",
+            "styles": "html"
+        },
+        {
+            "name": "REACTJS",
+            "level": "90%",
+            "styles": "reactjs"
+        },
+        {
+            "name": "Python - Django/ Django Rest Framework",
+            "level": "90%",
+            "styles": "django"
+    
+        },
+        {
+          "name": "Machine Learning Python",
+          "level": "10%",
+          "styles": "machinelearning"
+    
+      },
+        {
+            "name": "Docker",
+            "level": "90%",
+            "styles": "docker"
+        },
+        {
+            "name": "English",
+            "level": "C1",
+            "styles": "english"
+        }
+    ],
+    "button-description": "Look my projects"
+
+}

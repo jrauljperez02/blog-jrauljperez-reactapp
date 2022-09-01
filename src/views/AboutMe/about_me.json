@@ -1,0 +1,20 @@
+{
+    "title": "About me",
+    "img-profile": "https://jrauljperez.netlify.app/images/img1.jpg",
+    "description": [
+        {   
+            "id": 0,
+            "skill": "Python Backend Engineer"
+        },
+        {
+            "id": 1,
+            "skill": "ReactJS Developer"
+        },
+        {
+            "id": 2,
+            "skill": "Automotive Enginner"
+        }
+    ],
+    "content": "Jesus Raul Jimenez Perez was born in Mexico City. Nowadays he is living in Mexico City and is studying Aumotive Engineer on Insituto Politecnico Nacional. Currently he is working as a Software Engineer using technologies as ReactJS, Python using Django and Django Rest Framework since 2021. Currently he is learning Amazon Web Services and and actually, improving every day his skills in the technologies he already handle. He aspire to become a software arquitect with Python and Javascript, learning, creating, working as a amazing tech leader",
+    "english-level": "English Level C1"
+}
